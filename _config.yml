@@ -1,21 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
 
-# Build settings
-markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+title: "Sean Patrick John Paul George Ringo Doran"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/spjpgrd\">@spjpgrd on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/spjpgrd\">@spjpgrd on Micro.blog</a>."
+baseurl: ""
+url: "https://spjpgrd.micro.blog"
+markdown: "kramdown"
+username: "spjpgrd"
+microblog_user: "spjpgrd"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Sean Patrick John Paul George Ringo Doran"
+name: "Sean Patrick John Paul George Ringo Doran"
+gravatar_hash: "9b284e50f411b74982aa02b57d6e5f78"
+avatar: "https://micro.blog/spjpgrd/avatar.jpg"
+full_name: "Sean Patrick John Paul George Ringo Doran"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "5846"
+gems: ["jekyll-paginate"]
+itunes_description: ""
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Sean Patrick John Paul George Ringo Doran"
+itunes_email: ""
+podcast: false
