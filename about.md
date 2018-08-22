@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 order: -1
 ---
-This is the placeholder text for your about page. You can edit this text under Account on Micro.blog.
+Head of Design at Wiretap. Community organizer of Columbus Web Group and Columbus StartupWeek. SVGs are underrated.
