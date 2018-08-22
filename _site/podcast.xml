@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Sean Patrick John Paul George Ringo Doran</title>
-    <description></description>
+    <description>Head of Design at Wiretap. Community organizer of Columbus Web Group and Columbus StartupWeek. SVGs are underrated.</description>
     <link>https://spjpgrd.micro.blog/</link>
-    <pubDate>Mon, 20 Aug 2018 14:41:21 -0400</pubDate>
-    <lastBuildDate>Mon, 20 Aug 2018 14:41:21 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Aug 2018 02:19:00 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 02:19:00 -0400</lastBuildDate>
 	<itunes:image href="https://micro.blog/spjpgrd/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
@@ -17,6 +17,10 @@
 		<itunes:email></itunes:email>
 	</itunes:owner>
 	<language>en</language>
+    
+		
+    
+		
     
   </channel>
 </rss>
