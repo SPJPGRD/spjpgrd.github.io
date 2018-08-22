@@ -5,5 +5,21 @@
 	"feed_url": "https://spjpgrd.micro.blog/feed.json",
 	"items": [
 		
+		{
+			"id": "http://spjpgrd.micro.blog/2018/08/20/nowplaying-some-real.html",
+	      	
+			"content_html": "<p>#NowPlaying —</p>\n\n<p>Some real chill music. Downtempo slow grooves , beats, and melodies 🎵\n<a href=\"https://geo.itunes.apple.com/us/playlist/the-chill/pl.u-MDgE9ue19q3r?at=10lwgb\">geo.itunes.apple.com/us/playli…</a></p>\n",
+			"date_published": "2018-08-20T15:13:12-04:00",
+			"url": "https://spjpgrd.micro.blog/2018/08/20/nowplaying-some-real.html"
+		},
+		
+		{
+			"id": "http://spjpgrd.micro.blog/2018/08/20/first-micro-post.html",
+	      	
+			"content_html": "<h1 id=\"first-micro-post\">First Micro Post</h1>\n\n<p>Rocking it old school. Who here still has a Last.fm?</p>\n\n<p>Since it’s always on in the background, I forget that it even exists for years at a time. It had such promise.</p>\n\n<p>Wish you could change the username though 😂\n<a href=\"https://www.last.fm/user/GreenDawn\">www.last.fm/user/Gree…</a></p>\n",
+			"date_published": "2018-08-20T14:57:33-04:00",
+			"url": "https://spjpgrd.micro.blog/2018/08/20/first-micro-post.html"
+		}
+		
 	]
 }
