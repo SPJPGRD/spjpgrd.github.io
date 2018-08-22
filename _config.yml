@@ -43,7 +43,7 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "5846"
 gems: ["jekyll-paginate"]
-itunes_description: ""
+itunes_description: "Head of Design at Wiretap. Community organizer of Columbus Web Group and Columbus StartupWeek. SVGs are underrated."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Sean Patrick John Paul George Ringo Doran"
