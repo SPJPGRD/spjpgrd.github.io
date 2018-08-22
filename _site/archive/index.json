@@ -5,5 +5,21 @@
 	"feed_url": "https://spjpgrd.micro.blog/archive/index.json",
 	"items": [
 		
+		{
+			"id": "http://spjpgrd.micro.blog/2018/08/20/nowplaying-some-real.html",
+	      	
+			"content_text": "#NowPlaying — Some real chill music. Downtempo slow grooves ,...",
+			"date_published": "2018-08-20T15:13:12-04:00",
+			"url": "https://spjpgrd.micro.blog/2018/08/20/nowplaying-some-real.html"
+		},
+		
+		{
+			"id": "http://spjpgrd.micro.blog/2018/08/20/first-micro-post.html",
+	      	
+			"content_text": "First Micro Post Rocking it old school. Who here still...",
+			"date_published": "2018-08-20T14:57:33-04:00",
+			"url": "https://spjpgrd.micro.blog/2018/08/20/first-micro-post.html"
+		}
+		
 	]
 }
